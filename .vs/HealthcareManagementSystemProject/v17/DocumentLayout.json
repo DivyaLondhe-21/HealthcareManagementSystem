@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystemproject\\authenticationservice\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystemproject\\authenticationservice\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E6A88F-53A5-4747-9F97-6A9B42212D38}|PatientService\\PatientService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystemproject\\patientservice\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E6A88F-53A5-4747-9F97-6A9B42212D38}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystemproject\\authenticationservice\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E6A88F-53A5-4747-9F97-6A9B42212D38}|PatientService\\PatientService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystemproject\\patientservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E6A88F-53A5-4747-9F97-6A9B42212D38}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\drajeshl\\source\\repos\\healthcaremanagementsystemproject\\authenticationservice\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C496474-C475-4B89-BB6B-FA3E86D858E9}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "AuthenticationService\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:03:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "AuthenticationService\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:57:45.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthcareContext.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\PatientService\\Models\\HealthcareContext.cs",
+              "RelativeDocumentMoniker": "PatientService\\Models\\HealthcareContext.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\PatientService\\Models\\HealthcareContext.cs",
+              "RelativeToolTip": "PatientService\\Models\\HealthcareContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:47:51.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\PatientService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PatientService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\PatientService\\Models\\User.cs",
+              "RelativeToolTip": "PatientService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:47:29.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Models\\Patient.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:46:46.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthcareContext.cs",
+              "DocumentMoniker": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Models\\HealthcareContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\HealthcareContext.cs",
+              "ToolTip": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\AuthenticationService\\Models\\HealthcareContext.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\HealthcareContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:37:50.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

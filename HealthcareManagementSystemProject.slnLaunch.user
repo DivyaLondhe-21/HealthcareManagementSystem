@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DatabaseModels\\DatabaseModels.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "AuthenticationService\\AuthenticationService.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "PatientService\\PatientService.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
