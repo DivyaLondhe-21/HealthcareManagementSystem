@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "CU18PUYUJe9bgsN08+0c06g8Zvq/ECAHjgiAo5ilvBs=",
+  "Hash": "hWAByRHUg3ueVY9FKNHu8VgplCbcRtrIj2XMisfSpzU=",
   "Source": "PatientService",
   "BasePath": "_content/PatientService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\DatabaseModels\\DatabaseModels.csproj",
+      "Identity": "D:\\Proj\\HealthcareManagementSystem\\DatabaseModels\\DatabaseModels.csproj",
       "Version": 2,
       "Source": "DatabaseModels",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -19,6 +19,5 @@
     }
   ],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

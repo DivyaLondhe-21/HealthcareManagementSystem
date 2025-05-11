@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "jk+TPrXNtxstfeT+zVSpG2lBGN6she28O0RoOzWPo3U=",
+  "Hash": "lPyMeXIwgTjT8vPtznZDneBHAvaOgd/obz5IYuMSo4A=",
   "Source": "AuthenticationService",
   "BasePath": "_content/AuthenticationService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\DRAJESHL\\source\\repos\\HealthcareManagementSystemProject\\DatabaseModels\\DatabaseModels.csproj",
+      "Identity": "D:\\Proj\\HealthcareManagementSystem\\DatabaseModels\\DatabaseModels.csproj",
       "Version": 2,
       "Source": "DatabaseModels",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -19,6 +19,5 @@
     }
   ],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

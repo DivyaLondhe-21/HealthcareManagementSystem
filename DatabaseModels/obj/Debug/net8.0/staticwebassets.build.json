@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "5pCtWxpRlOS5VUhCQEDgOse8rr+TATdBCACyCF1Z9b8=",
+  "Hash": "fQyNBoeovsX/0o8kNGpTCFpT5iiXtF97LeNRyGWFVHc=",
   "Source": "DatabaseModels",
   "BasePath": "_content/DatabaseModels",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

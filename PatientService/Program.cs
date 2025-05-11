@@ -1,7 +1,7 @@
 using PatientService.Interfaces;
-using PatientService.Models;
 using PatientService.Repositories;
 using Microsoft.EntityFrameworkCore;
+using DatabaseModels.Data;
 namespace PatientService
 {
     public class Program
@@ -10,9 +10,9 @@ namespace PatientService
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
             builder.Services.AddDbContext<HealthcareContext>(options =>
-             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+               options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
             builder.Services.AddScoped<IPatientRepository, PatientRepository>();
 

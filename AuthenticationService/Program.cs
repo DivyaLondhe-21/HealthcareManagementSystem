@@ -1,6 +1,6 @@
 using AuthenticationService.Interfaces;
-using AuthenticationService.Models;
 using AuthenticationService.Repositories;
+using DatabaseModels.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace AuthenticationService 
@@ -12,9 +12,8 @@ namespace AuthenticationService
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            
             builder.Services.AddDbContext<HealthcareContext>(options =>
-             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+           options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
             builder.Services.AddScoped<IAuthRepository, AuthRepository>();
